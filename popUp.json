@@ -1,0 +1,21 @@
+{
+    "success": true,
+    "apiMessage": "Request successfully completed!",
+    "statusCode": 200,
+    "isActive": true,
+    "data": {
+        "popUp": {
+            "heading": "Customer Care",
+            "details": [
+                {
+                    "id": 1,
+                    "action": "Call Us"
+                },
+                {
+                    "id": 2,
+                    "action": "Whatsapp"
+                }
+            ]
+        }
+    }
+}
