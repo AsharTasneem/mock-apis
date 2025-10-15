@@ -8,35 +8,35 @@
             "sections": [
                 {
                     "id": 1,
-                    "type": "Mortgage Calculator"
+                    "title": "Mortgage Calculator"
                 },
                 {
                     "id": 2,
-                    "type": "Customer Care"
+                    "title": "Customer Care"
                 },
                 {
                     "id": 3,
-                    "type": "FAQ"
+                    "title": "FAQ"
                 },
                 {
                     "id": 4,
-                    "type": "About GCDC"
+                    "title": "About GCDC"
                 },
                 {
                     "id": 5,
-                    "type": "Settings"
+                    "title": "Settings"
                 },
                 {
                     "id": 6,
-                    "type": "App Info"
+                    "title": "App Info"
                 },
                 {
                     "id": 7,
-                    "type": "Terms of Use"
+                    "title": "Terms of Use"
                 },
                 {
                     "id": 8,
-                    "type": "Privacy Policy"
+                    "title": "Privacy Policy"
                 }
             ]
         }

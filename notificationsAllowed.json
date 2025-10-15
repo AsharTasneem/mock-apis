@@ -1,0 +1,14 @@
+{
+    "success": true,
+    "apiMessage": "Request successfully completed!",
+    "statusCode": 200,
+    "isActive": true,
+    "data": {
+        "notificationsAllowed": {
+            "image": "https://picsum.photos/seed/picsum/200/300",
+            "heading": "Allow Notifications",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam consequat dui sit amet mauris blandit rutrum."
+        }
+        
+    }
+}
