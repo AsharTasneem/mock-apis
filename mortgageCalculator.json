@@ -1,0 +1,47 @@
+{
+    "success": true,
+    "apiMessage": "Request successfully completed!",
+    "statusCode": 200,
+    "isActive": true,
+    "data": {
+        "loanAmountAndDuration": {
+            "mainPaymentDetails": {
+                "downPayment": "10,000.00 SAR",
+                "totalPayment": "100,000.00 SAR",
+                "paymentCategory": "Monthly Payment",
+                "repayDuration": "Total amount over 40 years",
+                "paymentType": "Interest",
+                "principal": "Principal"
+            },
+            "descripitvePaymentDetails": [
+                {
+                    "id": 1,
+                    "category": "Total Price",
+                    "value": "10,000.00 SAR"
+                },
+                {
+                    "id": 2,
+                    "category": "Loan Period",
+                    "value": "40 years"
+                },
+                {
+                    "id": 3,
+                    "category": "Down Payment",
+                    "value": "24.0%"
+                },
+                {
+                    "id": 4,
+                    "category": "Interest Rate",
+                    "value": "3.0%"
+                }
+            ]
+        },
+        "popUp": {
+            "heading": "Customer Care",
+            "details": [
+                "Call Us",
+                "Whatsapp"
+            ]
+        }
+    }
+}
