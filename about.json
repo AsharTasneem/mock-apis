@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "apiMessage": "Request successfully completed!",
+    "statusCode": 200,
+    "isActive": true,
+    "data": {
+        "backgroundImage": "https://fastly.picsum.photos/id/371/536/354.jpg?hmac=gJcfdLhCJUKk3QwFytt2mMe6YHlRYiuhekd2evpY7Kk",
+        "logo": "https://images.seeklogo.com/logo-png/22/1/al-arabiya-news-channel-logo-png_seeklogo-221044.png",
+        "language": "العربية",
+        "menuIcon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP5sEeuOGh3rChJXr2ljYzY0Vo10Qr9Y5JAA&s"
+    }
+}

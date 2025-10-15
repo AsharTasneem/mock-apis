@@ -1,0 +1,39 @@
+{
+    "success": true,
+    "apiMessage": "Request successfully completed!",
+    "statusCode": 200,
+    "isActive": true,
+    "data": {
+        "settings": {
+            "heading": "Account",
+            "sections": [
+                "Notifications",
+                "Location Services",
+                "Languages"
+            ]
+        },
+        "notificationsFrame": {
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac orci ac neque pellentesque dictum.",
+            "notificationCategories": [
+                "News and Updates",
+                "Inspiration and Offers",
+                "Reminder"
+            ]
+        },
+        "allowedNotifications": {
+            "image": "https://picsum.photos/seed/picsum/200/300",
+            "heading": "Allow Notifications",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam consequat dui sit amet mauris blandit rutrum."
+        },
+        "languages": [
+            {
+                "languageName": "English",
+                "id": "en"
+            },
+            {
+                "languageName": "Arabian",
+                "id": "ar   "
+            }
+        ]
+    }
+}
